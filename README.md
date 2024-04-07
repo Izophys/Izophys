@@ -18,7 +18,6 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Izophys&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Izophys&theme=dark&hide_border=false" alt="GitHub Streak" width="440">
 </div>
 
