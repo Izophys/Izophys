@@ -21,8 +21,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Izophys&theme=dark&hide_border=false" alt="GitHub Streak" width="440">
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Izophys&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--- ## 🏆 GitHub Trophies --->
+<!--- ![](https://github-profile-trophy.vercel.app/?username=Izophys&theme=radical&no-frame=false&no-bg=true&margin-w=4) --->
 
 ---
 <!--- [![](https://visitcount.itsvg.in/api?id=Izophys&icon=0&color=12)](https://visitcount.itsvg.in) --->
