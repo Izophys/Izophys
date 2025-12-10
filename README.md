@@ -25,10 +25,11 @@
   <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
 </p>
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Izophys&theme=dark&hide_border=false" alt="GitHub Streak" width="440">
-</div>
+<!---# 📊 GitHub Stats: --->
+<!--- <div align="center"> --->
+<!---   <img src="https://streak-stats.demolab.com/?user=Izophys&theme=dark&hide_border=false" alt="GitHub Streak" width="440"> --->
+<!---   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Izophys&theme=dark&hide_border=false" alt="GitHub Streak" width="440"> --->
+<!--- </div>
 
 <!--- ## 🏆 GitHub Trophies --->
 <!--- ![](https://github-profile-trophy.vercel.app/?username=Izophys&theme=radical&no-frame=false&no-bg=true&margin-w=4) --->
